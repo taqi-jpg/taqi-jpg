@@ -73,20 +73,6 @@ performance with a final 4-chart dashboard.
 
 ---
 
-### Sales Analysis Dashboard — Power BI (Self-Made Dataset)
-[View Repository](https://github.com/taqi-jpg/sales-powerbi-dashboard)
-
-Interactive 2-page Power BI dashboard built on a self-created dataset
-with full DAX measures, slicers and drill-through functionality.
-
-- Tools: Power BI, DAX, Power Query
-- Dataset: 20 products, 3 categories, 12 months
-- Key Findings: 20.47% overall profit margin, Electronics leads all
-  categories, Laptop best product with 25% margin
-- Features: 8 DAX measures, 13 visuals, 2 slicers, Drill Through page
-
----
-
 ### Superstore Sales Dashboard — Power BI (Real Dataset)
 [View Repository](https://github.com/taqi-jpg/superstore-sales-powerbi)
 
