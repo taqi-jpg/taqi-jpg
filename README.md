@@ -58,6 +58,23 @@ performance using advanced Excel features.
 
 ---
 
+### Superstore Sales Dashboard — Power BI (Real Dataset)
+[View Repository](https://github.com/taqi-jpg/superstore-sales-powerbi)
+
+End-to-end business intelligence dashboard on a real-world retail
+dataset of 9,800 rows — featuring Star Schema modeling, time
+intelligence DAX, geographic map visual and category-level drill
+through navigation.
+
+- Tools: Power BI, DAX, Power Query, Star Schema
+- Dataset: 9,800 rows, 18 columns, 2015-2018 Superstore retail data
+- Key Findings: $2.26M total revenue, West is best region, Technology
+  leads all categories, +46.90% YoY growth
+- Features: 8 DAX measures including MoM + YoY, Map visual, Treemap,
+  TopN filter, Drill Through, Year range slider, KPI visual
+
+---
+
 ### Sales Data Analysis — SQL + Python
 [View Repository](https://github.com/taqi-jpg/sales-data-analysis)
 
@@ -86,23 +103,6 @@ performance with a final 4-chart dashboard.
   $5,205 in sales, 51-65 age group has highest avg spend of $778,
   overall return rate 26.7% above 20% threshold
 - Visuals: Multi-chart dashboard, Conditional coloring, axhline/axvline
-
----
-
-### Superstore Sales Dashboard — Power BI (Real Dataset)
-[View Repository](https://github.com/taqi-jpg/superstore-sales-powerbi)
-
-End-to-end business intelligence dashboard on a real-world retail
-dataset of 9,800 rows — featuring Star Schema modeling, time
-intelligence DAX, geographic map visual and category-level drill
-through navigation.
-
-- Tools: Power BI, DAX, Power Query, Star Schema
-- Dataset: 9,800 rows, 18 columns, 2015-2018 Superstore retail data
-- Key Findings: $2.26M total revenue, West is best region, Technology
-  leads all categories, +46.90% YoY growth
-- Features: 8 DAX measures including MoM + YoY, Map visual, Treemap,
-  TopN filter, Drill Through, Year range slider, KPI visual
 
 ---
 
