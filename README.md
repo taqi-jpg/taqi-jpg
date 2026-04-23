@@ -1,7 +1,5 @@
 # Mohammed Taqi Uddin Faraz
-
 ## Aspiring Data Analyst | Business Intelligence Enthusiast
-
 Passionate about turning raw data into actionable business insights.
 I build end-to-end analytics solutions using SQL, Python, Excel and
 Power BI — combining technical skills with business thinking to drive
@@ -22,15 +20,15 @@ data-driven decisions.
 - Matplotlib + Seaborn — 6+ chart types, Multi-chart dashboards
 
 ### Power BI
-- DAX — 8+ custom measures including Time Intelligence
+- DAX — 8+ custom measures including Time Intelligence (MoM, YoY)
 - Power Query — Data cleaning, Type correction, Column removal
 - Data Modeling — Star Schema, Relationships, Date Tables
-- Visuals — KPI cards, Treemap, Map, Drill Through, Slicers
+- Visuals — KPI cards, Treemap, Map, Drill Through, Slicers, TopN Filter
 
 ### Microsoft Excel
-- Pivot Tables, Slicers, VLOOKUP, XLOOKUP
+- Pivot Tables, Pivot Charts, Slicers, VLOOKUP, XLOOKUP
 - SUMIF, COUNTIFS, AVERAGEIFS, IF, IFERROR
-- Conditional Formatting, Data Validation, Charts
+- Conditional Formatting, Data Validation, KPI Cards, Charts
 
 ### Core Skills
 - Data Cleaning & Transformation
@@ -41,6 +39,24 @@ data-driven decisions.
 ---
 
 ## Projects
+
+### HR Analytics Dashboard — Microsoft Excel
+[View Repository](https://github.com/taqi-jpg/excel-hr-analytics-dashboard)
+
+Interactive HR analytics dashboard built on a 500-row employee dataset
+analyzing workforce headcount, attrition, payroll and departmental
+performance using advanced Excel features.
+
+- Tools: Excel, Pivot Tables, Pivot Charts, XLOOKUP, SUMIF, COUNTIFS,
+  AVERAGEIFS, IFERROR, Conditional Formatting, KPI Cards
+- Dataset: 500 employee records across multiple departments
+- Key Findings: 20.6% overall attrition rate, IT has highest headcount
+  and payroll allocation, Finance and HR show stronger average
+  performance scores, IT shows comparatively lower performance ratings
+- Features: Interactive slicers, department-wise KPI cards, dynamic
+  formulas, conditional formatting for visual alerts
+
+---
 
 ### Sales Data Analysis — SQL + Python
 [View Repository](https://github.com/taqi-jpg/sales-data-analysis)
@@ -84,7 +100,7 @@ through navigation.
 - Tools: Power BI, DAX, Power Query, Star Schema
 - Dataset: 9,800 rows, 18 columns, 2015-2018 Superstore retail data
 - Key Findings: $2.26M total revenue, West is best region, Technology
-  leads all categories, +34.82% YoY growth
+  leads all categories, +46.90% YoY growth
 - Features: 8 DAX measures including MoM + YoY, Map visual, Treemap,
   TopN filter, Drill Through, Year range slider, KPI visual
 
